@@ -1,6 +1,6 @@
 Commands to start the project:
 
-    git clone https://github.com/mirzafar/art-therapy
+    git clone https://github.com/TulparTeamm/art-therapy
 
     pipenv install --python 3.8
 
